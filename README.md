@@ -1,2 +1,2 @@
 # wine_classifications
-using difeerent algos to classify wines
+using different algos to classify wines
